@@ -1,7 +1,7 @@
 ---
 title: "Computer Hardware Data Set Analysis"
 date: "12/31/2020"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 $$\\[0.2cm]$$
